@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venkat</h1>
 <h3 align="center">A passionate frontend ReactJS developer from India</h3>
-<image align="right" alt="coding" widht="400" scr="https://i.imgur.com/50NA7vr.gif">
+<image align="right" alt="coding" widht="400" src="https://steemitimages.com/DQmSSaWvQTY63MYPKLVU1FPYbjz8ZSYGEpsPDT1CJ9b3CBn/1.gif">
 
 - 🌱 I’m currently learning **React JS , Next JS , Three JS ,Python**
 
